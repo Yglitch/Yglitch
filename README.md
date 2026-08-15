@@ -1,12 +1,10 @@
-# 👋 Hi, I'm Yash Rana
+👋 Hi, I'm Yash Rana
+🤖 Aspiring AI/ML Engineer | Data Science | BTech CSE Student
 
-### 🤖 Aspiring AI/ML Engineer | BTech CSE Student
+I'm a Computer Science student passionate about Machine Learning, Artificial Intelligence, Data Science, and Backend Engineering.
 
-I'm a Computer Science student passionate about **Machine Learning, Deep Learning, and AI engineering**.
+I enjoy building end-to-end ML applications — from data preprocessing and model development to REST APIs, databases, deployment, and production-ready systems.
 
-I enjoy building real-world projects, experimenting with ML models, and turning ideas into working applications.
-
----
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -90,6 +88,13 @@ A **movie recommendation system** using collaborative filtering and SVD.
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+### 🎯 My Goal
+I'm working toward becoming an AI/ML Engineer capable of designing and building complete AI systems.
+My goal is to bridge the gap between Machine Learning and Software Engineering by developing systems that can move from:
+Data → ML Model → API → Database → Deployment → Production
+
+
+
 ---
 
 # 📊 GitHub Stats
@@ -100,13 +105,8 @@ A **movie recommendation system** using collaborative filtering and SVD.
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yglitch&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 
-## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Yglitch&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
----
 
 ## 🌐 Connect With Me
 
