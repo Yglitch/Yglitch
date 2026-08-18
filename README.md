@@ -37,7 +37,7 @@ Deep-learning based **wound detection system** capable of classifying different 
 
 **Tech:** Python • PyTorch • ResNet50 • OpenCV • FastAPI
 
-🔗 [View Projects](https://github.com/Yglitch)
+🔗 [View Projects](https://github.com/Yglitch/DermAI)
 
 ---
 
