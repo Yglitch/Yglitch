@@ -28,7 +28,7 @@ Machine Learning based **loan approval prediction system** that evaluates applic
 
 **Tech:** Python • Pandas • NumPy • Scikit-learn • Machine Learning
 
-🔗 [View Project](https://github.com/Yglitch)
+🔗 [View Project](https://github.com/Yglitch/Loan-Approval-Prediction-System)
 
 ---
 
