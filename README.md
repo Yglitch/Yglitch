@@ -46,7 +46,7 @@ A **movie recommendation system** using collaborative filtering and SVD.
 
 **Tech:** Python • Streamlit • Surprise • SVD • Pandas
 
-🔗 [View Projects](https://github.com/Yglitch)
+🔗 [View Projects](https://github.com/Yglitch/Cinematch)
 
 ## 🧠 Currently Learning
 
