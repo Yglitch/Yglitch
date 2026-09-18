@@ -120,7 +120,7 @@ Data → ML Model → API → Database → Deployment → Production
 
 ### 🎯 My Goal
 
-**Build impactful AI systems and become a strong AI/ML Engineer.**
+**Build impactful AI systems and become a strong AI/ML Engineer. My Goal is to become top 1% of AI ML Engineer...**
 
 ---
 
